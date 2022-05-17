@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1@service": "file:///e%3A/SLIIT/Year%204%20project%20and%20assignments/CTSE/Assignment%203%20%28Microservices%29/api-gateway/Service.yaml"
+    }
+}

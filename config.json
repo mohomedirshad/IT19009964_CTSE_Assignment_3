@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://ctse:ctse123@api-gateway-microservic.9qqx1.mongodb.net/microserviceAPIGateWay?retryWrites=true&w=majority",
+    "secret": "hsmihd999"
+}
